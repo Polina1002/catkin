@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntupc/catkin_ws/install/setup.sh
